@@ -1,5 +1,4 @@
 import streamlit as st
-import topologicpy
 from topologicpy.Cell import Cell
 from topologicpy.Plotly import Plotly
 
