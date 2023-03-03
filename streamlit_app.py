@@ -3,7 +3,7 @@ import topologicpy
 from topologicpy.Cell import Cell
 from topologicpy.Plotly import Plotly
 
-st.title('🎈 TopologicPy is on PyPI!')
+st.title('🎈 TopologicPy is on Streamlit!')
 
 torus = Cell.Torus()
 data = Plotly.DataByTopology(torus)
