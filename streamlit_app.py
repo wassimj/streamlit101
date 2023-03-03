@@ -1,6 +1,6 @@
 import streamlit as st
 from topologicpy.Cell import Cell
-from topologicpy.Explode import Explode
+from topologicpy.Topology import Topology
 from topologicpy.Plotly import Plotly
 
 st.title('🎈 TopologicPy is on Streamlit!')
